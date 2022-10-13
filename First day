@@ -1,0 +1,6 @@
+character_name = "Mike"
+character_age = "40"
+print("my name is " + character_name +".")
+print("I'm " + character_age + " years old.")
+print("But if you ask me why name " + character_name +".")
+print("hhh, I don't know.")
